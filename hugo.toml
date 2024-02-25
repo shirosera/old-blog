@@ -59,7 +59,7 @@ disableHugoGeneratorInject = false
   # 
   description = "Q's Tech/Music/Hobbies Blog"
   keywords = ""
-  images = [""]
+  images = ["https://blog.null-sect.com/android-chrome-384x384.png"]
 
   # Home subtitle of the index page.
   #
