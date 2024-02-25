@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "/"
 title   = "Q's Blog"
 languageCode = "ja-jp"
 hasCJKLanguage = true
