@@ -2,6 +2,7 @@ baseURL = "/"
 title   = "Q's Blog"
 languageCode = "ja-jp"
 hasCJKLanguage = true
+defaultContentLanguage = "ja"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
